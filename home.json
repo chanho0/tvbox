@@ -276,7 +276,7 @@
       "api": "csp_Paper",
       "searchable": 1,
       "filterable": 0,
-      "ext": "https://github.333033.xyz/https://raw.githubusercontent.com/chanho0/tvbox/main/token.txt",
+      "ext": "https://gitee.com/chanho0/tvbox/raw/master/token.txt",
       "jar": "https://agit.ai/cacifer/xyz/raw/branch/master/jar/ali.jar;md5;EFB6AD1511FC45720E71386435ABE56C"
     },
     {
@@ -286,7 +286,7 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "filterable": 0,
-      "ext": "https://github.333033.xyz/https://raw.githubusercontent.com/chanho0/tvbox/main/token.txt",
+      "ext": "https://gitee.com/chanho0/tvbox/raw/master/token.txt",
       "jar": "https://agit.ai/cacifer/xyz/raw/branch/master/jar/ali.jar;md5;EFB6AD1511FC45720E71386435ABE56C"
     },
     {
@@ -296,7 +296,7 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "filterable": 0,
-      "ext": "https://github.333033.xyz/https://raw.githubusercontent.com/chanho0/tvbox/main/token.txt",
+      "ext": "https://gitee.com/chanho0/tvbox/raw/master/token.txt",
       "jar": "https://agit.ai/cacifer/xyz/raw/branch/master/jar/ali.jar;md5;EFB6AD1511FC45720E71386435ABE56C"
     },
     {
@@ -306,7 +306,7 @@
       "api": "csp_UpYun",
       "searchable": 1,
       "filterable": 0,
-      "ext": "https://github.333033.xyz/https://raw.githubusercontent.com/chanho0/tvbox/main/token.txt",
+      "ext": "https://gitee.com/chanho0/tvbox/raw/master/token.txt",
       "jar": "https://agit.ai/cacifer/xyz/raw/branch/master/jar/ali.jar;md5;EFB6AD1511FC45720E71386435ABE56C"
     },
     {
@@ -316,7 +316,7 @@
       "api": "csp_Zhaozy",
       "searchable": 1,
       "filterable": 0,
-      "ext": "https://github.333033.xyz/https://raw.githubusercontent.com/chanho0/tvbox/main/token.txt",
+      "ext": "https://gitee.com/chanho0/tvbox/raw/master/token.txt",
       "jar": "https://agit.ai/cacifer/xyz/raw/branch/master/jar/ali.jar;md5;EFB6AD1511FC45720E71386435ABE56C"
     },
     {
@@ -335,7 +335,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://github.333033.xyz/https://raw.githubusercontent.com/chanho0/tvbox/main/token.txt",
+      "ext": "https://gitee.com/chanho0/tvbox/raw/master/token.txt",
       "jar": "https://agit.ai/cacifer/xyz/raw/branch/master/jar/ali.jar;md5;EFB6AD1511FC45720E71386435ABE56C"
     }
   ],

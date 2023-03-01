@@ -28,7 +28,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://agit.ai/cacifer/xyz/raw/branch/master/main/alist.json",
-            "jar": "https://agit.ai/cacifer/xyz/raw/branch/master/jar/ali.jar;md5;9D304B975A284CA38C801A1419ED547C"
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;69ef6396eb2400c03529c7714d96841a"
         },
         {
             "key": "戏曲",
@@ -227,7 +227,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;92a58defedc77459ca0139972fb05754"
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;eb433f3b00e991e6ba6509cffc99672c"
         },                                                                                                                     
         {                                                                                                                      
             "key": "搜索源2",                                                                                                  
@@ -237,7 +237,7 @@
             "searchable": 1,                                                                                                   
             "quickSearch": 1,                                                                                                  
             "filterable": 1,                                                                                                   
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;92a58defedc77459ca0139972fb05754"
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;eb433f3b00e991e6ba6509cffc99672c"
         },                                                                                                                     
         {                                                                                                                      
             "key": "搜索源3",                                                                                                  
@@ -247,7 +247,7 @@
             "searchable": 1,                                                                                                   
             "quickSearch": 1,                                                                                                  
             "filterable": 1,                                                                                                   
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;92a58defedc77459ca0139972fb05754"
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;eb433f3b00e991e6ba6509cffc99672c"
         },{                                                                                                                    
             "key": "搜索源4",                                                                                                  
             "name": "🔍搜索源4",                                                                                               
@@ -256,29 +256,29 @@
             "searchable": 1,                                                                                                   
             "quickSearch": 1,                                                                                                  
             "filterable": 1,                                                                                                   
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;92a58defedc77459ca0139972fb05754"
-        },                                                                                                                     
-		{                                                                                                                      
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;eb433f3b00e991e6ba6509cffc99672c"
+        },                                                                                                                                                                                                                                        
+        {                                                                                                                      
             "key": "搜索源5",                                                                                                  
             "name": "🔍搜索源5",                                                                                               
-            "type": 3,                                                                                                         
-            "api": "csp_AppTT2",                                                                                               
-            "searchable": 1,                                                                                                   
-            "quickSearch": 1,                                                                                                  
-            "filterable": 1,                                                                                                   
-            "ext": "http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA==",      
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;92a58defedc77459ca0139972fb05754"
-        },                                                                                                                     
-        {                                                                                                                      
-            "key": "搜索源6",                                                                                                  
-            "name": "🔍搜索源6",                                                                                               
             "type": 3,                                                                                                         
             "api": "csp_Xinsj",                                                                                                
             "searchable": 1,                                                                                                   
             "quickSearch": 1,                                                                                                  
             "filterable": 1,                                                                                                   
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;92a58defedc77459ca0139972fb05754"
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;eb433f3b00e991e6ba6509cffc99672c"
         },
+		{
+			"key": "搜索源6",
+			"name": "🔍搜索源6",
+			"type": 3,
+			"api": "csp_Czsapp",
+			"playerType": 2,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,                                                                                                   
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;eb433f3b00e991e6ba6509cffc99672c"
+		},
         {
             "key": "纸条",
             "name": "☁云搜1",
@@ -287,7 +287,7 @@
             "searchable": 1,
             "filterable": 0,
             "ext": "https://gitee.com/chanho0/tvbox/raw/master/token.txt",
-            "jar": "https://agit.ai/cacifer/xyz/raw/branch/master/jar/ali.jar;md5;9D304B975A284CA38C801A1419ED547C"
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;69ef6396eb2400c03529c7714d96841a"
         },
         {
             "key": "易搜",
@@ -297,7 +297,7 @@
             "searchable": 1,
             "filterable": 0,
             "ext": "https://gitee.com/chanho0/tvbox/raw/master/token.txt",
-            "jar": "https://agit.ai/cacifer/xyz/raw/branch/master/jar/ali.jar;md5;9D304B975A284CA38C801A1419ED547C"
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;69ef6396eb2400c03529c7714d96841a"
         },
         {
             "key": "盘搜",
@@ -307,7 +307,7 @@
             "searchable": 1,
             "filterable": 0,
             "ext": "https://gitee.com/chanho0/tvbox/raw/master/token.txt",
-            "jar": "https://agit.ai/cacifer/xyz/raw/branch/master/jar/ali.jar;md5;9D304B975A284CA38C801A1419ED547C"
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;69ef6396eb2400c03529c7714d96841a"
         },
         {
             "key": "UP云搜",
@@ -317,7 +317,7 @@
             "searchable": 1,
             "filterable": 0,
             "ext": "https://gitee.com/chanho0/tvbox/raw/master/token.txt",
-            "jar": "https://agit.ai/cacifer/xyz/raw/branch/master/jar/ali.jar;md5;9D304B975A284CA38C801A1419ED547C"
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;69ef6396eb2400c03529c7714d96841a"
         },
         {
             "key": "找资源",
@@ -326,15 +326,8 @@
             "api": "csp_Zhaozy",
             "searchable": 1,
             "filterable": 0,
-            "ext": "https://gitee.com/chanho0/tvbox/raw/master/token.txt",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;92a58defedc77459ca0139972fb05754"
-        },
-        {
-            "key": "小雅",
-            "name": "☁云搜6",
-            "type": 3,
-            "api": "https://agit.ai/cacifer/xyz/raw/branch/master/JS/alist.min.js",
-            "ext": "https://agit.ai/cacifer/xyz/raw/branch/master/main/xiaoya.json"
+            "ext": "https://gitee.com/chanho0/tvbox/raw/master/token.txt$$$yingshi$$$abcd1234",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;69ef6396eb2400c03529c7714d96841a"
         },
         {
             "key": "push_agent",
@@ -346,7 +339,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://gitee.com/chanho0/tvbox/raw/master/token.txt",
-            "jar": "https://agit.ai/cacifer/xyz/raw/branch/master/jar/ali.jar;md5;9D304B975A284CA38C801A1419ED547C"
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;69ef6396eb2400c03529c7714d96841a"
         }
     ],
     "parses": [
